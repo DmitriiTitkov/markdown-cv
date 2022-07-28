@@ -1,91 +1,64 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dmitrii Titkov
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### contacts
+email:  dumacukps@gmail.com
+telegram:  @snaild
+github:  https://github.com/DmitriiTitkov
 
+# Profile
+A passioned software engineer who believes that technology can make the world a better place.
 
-## Currently
+More than 9 years of experience working in technology 7 of which is software engineering.  
 
-Standing on the shoulders of giants
+Highly motivated team player with a track record of developing and 
+maintaining high quality software solutions.
 
-### Specialized in
+Skilled in problem-solving and delivering features from idea to production. 
+Dedicated to constantly improving the toolset and the code quality to maximise team productivity
+and remove support burden.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+# Skills
+**Proficient with**: Python, SQL, pandas, Django, DRF, FastAPI, Celery, Airflow, Docker, Git
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Good with**: AWS, Javascript, React, Mongo, Elasticsearch, Kubernetes, Ansible
 
 
-## Education
+# Projects
+### Asset Management - Senior Software engineer
+Developed and maintained ETL data pipelines that processes billions of data points daily.
+Implemented new metrics and worked on re-engineering and refactoring of the exising.
 
-`1654-1660`
-__The King's School, Grantham.__
+Delivered application for data insights to provide breakdown of calculations. 
+The application provided users with traceability information which reduced amount of 
+support queries by 30%.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Improved CI/CD process by adding new quality gates and policies which reduced 
+change lead time by 5%.
 
-- Sizar
+Improved test quality and test coverage updating test structure and project layout.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### HPC - Senior Software engineer
+Build service that provides user and application on-boarding to HPC cluster.
+Designed Rest API that exposes existing applications and their versions and allows 
+requesting new applications to be installed to the cluster.
+The app powered dashboards that showed data for application usage, user location
+and app and user trends.
 
-- Fellow
+Designed and build multi-stage data-pipline that transfers terrabates of scientific data. 
+The data collected from multiple remote instruments staged to the cloud storage
+ categorized and enriches with metadata, the processed on HPC cluster and archived.
+Build a CLI interface that allows to request data transfers and inspect current transfers.
+The new data processing pipeline replaced manual collection and cut down time required
+from months to hours.
 
+### iii - Software engineer
+Build application self-provision service that was used by dozen of teams to request
+application instances for testing or development. Implemented serverless backend service
+and build a chat-ops interface that allowed creating application instances on demand.
+The application freed operations teams capacity by reducing regular support activities by 50%.
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Pharma - Software engineer
+Worked in a team that creates workflow based sites that automate business 
+processes. Actively participated in creation and maintenance of hundreds of sites
+delivered features on backend and frontend. Worked on standardisation and development 
+of reusable components, performed cloud migration.
