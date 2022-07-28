@@ -25,6 +25,7 @@ and remove support burden.
 
 # Projects
 ### Asset Management - Senior Software engineer
+`2021-Now` 
 Developed and maintained ETL data pipelines that processes billions of data points daily.
 Implemented new metrics and worked on re-engineering and refactoring of the exising.
 
