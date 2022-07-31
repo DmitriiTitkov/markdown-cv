@@ -1,11 +1,16 @@
+---
+layout: cv
+title: Dmitrii's CV
+---
 # Dmitrii Titkov
 
-### contacts
+## contacts
+location: London  
 email:  dumacukps@gmail.com
 telegram:  @snaild
 github:  https://github.com/DmitriiTitkov
 
-# Profile
+## Profile
 A passioned software engineer who believes that technology can make the world a better place.
 
 More than 9 years of experience working in technology 7 of which is software engineering.  
@@ -17,28 +22,27 @@ Skilled in problem-solving and delivering features from idea to production.
 Dedicated to constantly improving the toolset and the code quality to maximise team productivity
 and remove support burden.
 
-# Skills
+## Skills
 **Proficient with**: Python, SQL, pandas, Django, DRF, FastAPI, Celery, Airflow, Docker, Git
 
 **Good with**: AWS, Javascript, React, Mongo, Elasticsearch, Kubernetes, Ansible
 
+## Professional experience
+### Asset Management - Senior Software engineer `2021-Now` 
 
-# Projects
-### Asset Management - Senior Software engineer
-`2021-Now` 
-Developed and maintained ETL data pipelines that processes billions of data points daily.
+ - Developed and maintained ETL data pipelines that processes billions of data points daily.
 Implemented new metrics and worked on re-engineering and refactoring of the exising.
 
-Delivered application for data insights to provide breakdown of calculations. 
+ - Delivered application for data insights to provide breakdown of calculations. 
 The application provided users with traceability information which reduced amount of 
 support queries by 30%.
 
-Improved CI/CD process by adding new quality gates and policies which reduced 
+ - Improved CI/CD process by adding new quality gates and policies which reduced 
 change lead time by 5%.
 
-Improved test quality and test coverage updating test structure and project layout.
+ - Improved test quality and test coverage updating test structure and project layout.
 
-### HPC - Senior Software engineer
+### HPC - Senior Software engineer `2020-2021` 
 Build service that provides user and application on-boarding to HPC cluster.
 Designed Rest API that exposes existing applications and their versions and allows 
 requesting new applications to be installed to the cluster.
