@@ -28,9 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
+
 ol, ul {
 	list-style: none;
 }
@@ -54,19 +52,25 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 0.9em;
-	line-height: 1em;
+	line-height: 1.7em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Raleway,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	margin-bottom: 30px;
+
+}
+
+#content {
+	left: 10%;
+	position: relative;
+	width: 80%;
+	max-width: 1000px;
 }
 
 p {
 	position: relative;
-	left: 10%;
-	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
 }
 
 code {
@@ -82,52 +86,49 @@ code {
 
 ul {
 	position: relative;
-	left: 1%;
-	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+  	list-style-type: square;
+	padding-left: 20px;
+    text-indent: -1em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
 li ul {
 	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+	margin-top: 0.1em;
+}
+li ul li {
+	padding-left: 20px;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Raleway,Verdana,monospace;
-	width: 65%;
-	left: 10%;
+
 
 }
 
 h1 {
-	text-align: left;
+	text-align: center;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
+}
+
+h1 + p {
+	text-align: center;
 }
 
 h2 {
 	font-size: 1.5em;
 	margin-top: 1em;
 	position: relative;
-	width: 65%;
 }
 
 h2:after
@@ -144,14 +145,15 @@ h3 {
 	font-size: 1.16em;
 	line-height: 2em;
 	position: relative;
-	width: 65%;
+	margin-top: 1em;
 }
 
 h3 code {
+	font-size: 80%;
 	position: relative;
 	text-align: right;
+	float: right;
 
-	color: red;
 }
 
 a {
@@ -187,10 +189,3 @@ strong {
 #address {
 	display: none;
 }
-
-
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
