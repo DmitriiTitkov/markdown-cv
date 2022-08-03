@@ -27,7 +27,7 @@ and remove support burden.
 
 ## Professional experience
 ### EPAM Systems / Schroders - Senior Software engineer `Mar 2021 - Now` 
- - Developed and maintained ETL data pipelines that processes billions of data points daily.
+ - Develop and maintain ETL data pipeline that process billions of data points daily.
    - Implemented new metrics and worked on re-engineering and refactoring of the exising.
    - Improved CI/CD process by adding new quality gates and policies which reduced 
      change lead time by 5%.
@@ -37,7 +37,7 @@ and remove support burden.
      support queries by 30%.
  
 ### EPAM Systems / Astrazeneca - Senior Software engineer `Aug 2019 - March 2021` 
- - Build service that provides user and application on-boarding to HPC cluster.
+ - Built service that provides user and application on-boarding to HPC cluster.
    - Designed Rest API that exposes existing applications and their versions and allows 
      requesting new applications to be installed to the cluster.
    - The app powered dashboards that showed data for application usage, user location
@@ -50,8 +50,8 @@ and remove support burden.
      from months to hours.
 
 ### EPAM Systems / III - Software engineer `Jun 2019 - Aug 2019`
- - Build application self-provision service that was used by dozen of teams to request
-application instances for testing or development. 
+ - Engineered application self-provision service that was used by dozen of teams to request
+   application instances for testing or development. 
    - Implemented serverless backend service and build a chat-ops interface that 
      allowed creating application instances on demand.
    - The application freed operations teams capacity by reducing regular support activities by 50%.
