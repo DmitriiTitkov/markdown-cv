@@ -26,7 +26,7 @@ and remove support burden.
 **Good with**: AWS, Javascript, React, Mongo, Elasticsearch, Kubernetes, Ansible
 
 ## Professional experience
-### EPAM Systems / Schroders - Senior Software engineer `Mar 2021 - Now` 
+### **EPAM Systems / Schroders** - Senior Software engineer `Mar 2021 - Now` 
  - Develop and maintain ETL data pipeline that process billions of data points daily.
    - Implemented new metrics and worked on re-engineering and refactoring of the exising.
    - Improved CI/CD process by adding new quality gates and policies which reduced 
@@ -36,7 +36,7 @@ and remove support burden.
    - The application provided users with traceability information which reduced amount of 
      support queries by 30%.
  
-### EPAM Systems / Astrazeneca - Senior Software engineer `Aug 2019 - March 2021` 
+### **EPAM Systems / Astrazeneca** - Senior Software engineer `Aug 2019 - March 2021` 
  - Built service that provides user and application on-boarding to HPC cluster.
    - Designed Rest API that exposes existing applications and their versions and allows 
      requesting new applications to be installed to the cluster.
@@ -49,14 +49,14 @@ and remove support burden.
    - The new data processing pipeline replaced manual collection and cut down time required
      from months to hours.
 
-### EPAM Systems / III - Software engineer `Jun 2019 - Aug 2019`
+### **EPAM Systems / III** - Software engineer `Jun 2019 - Aug 2019`
  - Engineered application self-provision service that was used by dozen of teams to request
    application instances for testing or development. 
    - Implemented serverless backend service and build a chat-ops interface that 
      allowed creating application instances on demand.
    - The application freed operations teams capacity by reducing regular support activities by 50%.
 
-### EPAM Systems / Merck - Software engineer `May 2017 - Jun 2019`
+### **EPAM Systems / Merck** - Software engineer `May 2017 - Jun 2019`
  - Worked in a team that creates workflow based sites that automate business processes. 
    - Actively participated in creation and maintenance of hundreds of sites
      delivered features on backend and frontend. 
