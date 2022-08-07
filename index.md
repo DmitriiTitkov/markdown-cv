@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Dmitrii's CV
+title: Dmitrii Titkov
 ---
 # Dmitrii Titkov
 **location**: London,
