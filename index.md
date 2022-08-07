@@ -66,4 +66,4 @@ Dedicated to constantly improving the toolset and the code quality to maximise t
 ## Education:
 **The Bonch-Bruevich Saint Petersburg State University of Telecommunications**  
 **Bachelor of Computer Science**  
-**Faculty:** Information Systems and Technologies  
+**Faculty:** Information Systems and Technologies
