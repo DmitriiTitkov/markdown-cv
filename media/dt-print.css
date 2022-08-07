@@ -193,6 +193,6 @@ strong {
 
 @media print {
   body {
-    zoom: 80%;
+    zoom: 75%;
   }
 }

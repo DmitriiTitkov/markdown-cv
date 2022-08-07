@@ -62,3 +62,8 @@ and remove support burden.
      delivered features on backend and frontend. 
    - Worked on standardisation and development of reusable components. 
    - Performed cloud migration.
+
+## Education:
+**The Bonch-Bruevich Saint Petersburg State University of Telecommunications**  
+**Bachelor of Computer Science**  
+**Faculty:** Information Systems and Technologies  
