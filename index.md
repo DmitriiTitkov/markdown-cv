@@ -9,16 +9,14 @@ title: Dmitrii Titkov
 **github**:  https://github.com/DmitriiTitkov
 
 ## Profile
-A passioned software engineer who believes that technology can make the world a better place.
-
+A passioned software engineer who believes that technology can make the world a better place.  
 More than 9 years of experience working in technology 7 of which is software engineering.  
-
 Highly motivated team player with a track record of developing and 
-maintaining high quality software solutions.
-
+ maintaining high quality software solutions.  
 Skilled in problem-solving and delivering features from idea to production.  
+Good performance tuning and debugging skills.  
 Dedicated to constantly improving the toolset and the code quality to maximise team productivity
-and remove support burden.
+ and remove support burden.
 
 ## Skills
 **Proficient with**: Python, Django, DRF, FastAPI, SQL, pandas, Celery, Airflow, Docker, Git
@@ -29,12 +27,14 @@ and remove support burden.
 ### **EPAM Systems / Schroders** - Senior Software engineer `Mar 2021 - Now` 
  - Develop and maintain ETL data pipeline that process billions of data points daily.
    - Implemented new metrics and worked on re-engineering and refactoring of the exising.
+   - Found bottlenecks and improved performance of components up to 50%.
    - Improved CI/CD process by adding new quality gates and policies which reduced 
      change lead time by 5%.
    - Improved test quality and test coverage updating test structure and project layout.
  - Delivered application for data insights to provide breakdown of calculations. 
-   - The application provided users with traceability information which reduced amount of 
+   - The application provides users with traceability information which reduced amount of 
      support queries by 30%.
+   - Optimised API by paralleling complex response construction and introducing caching.
  
 ### **EPAM Systems / Astrazeneca** - Senior Software engineer `Aug 2019 - March 2021` 
  - Built service that provides user and application on-boarding to HPC cluster.
